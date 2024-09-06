@@ -68,7 +68,7 @@ npm install
 json-server db.json --port 3000
 ```
 
-6. Agora, crie uma chave de API para você no site [https://developer.themoviedb.org/v4/reference/intro/getting-started](do TMDB)
+6. Agora, crie uma chave de API para você no site [do TMDB](https://developer.themoviedb.org/v4/reference/intro/getting-started)
 
 7. No arquivo **.env.example**, coloque a chave da API do TMDB (o token JWT), como no exemplo a seguir:
 ```
@@ -83,4 +83,4 @@ npm run dev
 ```
 
 ## Repositório original: 
-[https://github.com/jhyago/maisPraTi-2024-01/tree/main/3-reactjs/atv5](Repositório com o código original)
+[Repositório com o código original](https://github.com/jhyago/maisPraTi-2024-01/tree/main/3-reactjs/atv5)
