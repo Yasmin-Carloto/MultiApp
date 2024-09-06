@@ -49,7 +49,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
 ## Use o projeto localmente:
 1. Clone o repositório do projeto:
 ```
-git clone 
+git clone https://github.com/Yasmin-Carloto/MultiApp.git
 ```
 
 2. Entre no repositório do projeto:
