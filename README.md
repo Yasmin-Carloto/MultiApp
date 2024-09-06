@@ -2,11 +2,11 @@
 O MultiApp é uma aplicação feita em React, voltada para a solução de alguns problemas e algumas atividades divertidas de se fazer.
 Este projeto está associado a Trilha FullStack Jr., um curso síncrono de 6 meses que se propõe a ensinar as principais tecnologias do mercado na área do desenvolvimento web.
 
-## Objetivo do desenvolvimento desta aplicação
+## Objetivo do desenvolvimento desta aplicação 🎯
 Como alunos do curso, fomos desafiados por nosso professor a recebermos um código sujo, com pouquíssima componentizção, sem estruturação de páginas e com o uso de APIs que não funcionavam corretamente e corrigirmos seus erros, além de componentizarmos e melhorarmos a estruturação de páginas.
 
 ### A seguir, os desafios obrigatórios e opcionais: 
-1. **Obrigatórias**
+1. **Obrigatórias** ⚠️
     1. Arquitetura:
         1. Modularização: Reestruture o código em módulos distintos para melhorar a manutenção e a legibilidade. Separe componentes, páginas, serviços e utilitários.
         2. Tratamento de Erros: Melhore o tratamento de erros, garantindo que o aplicativo lide com erros de forma clara e amigável para o usuário.
@@ -17,7 +17,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
     3. Qualidade de Código e Melhores Práticas:
         1. Revisões de Código: Estabeleça um processo de revisão de código para garantir qualidade e consistência.
         2. Documentação: Melhore a documentação do código utilizando comentários claros e mantendo um README detalhado.
-2. **Não obrigatórias:** 
+2. **Não obrigatórias:** 💡
    1. Uso de Padrões de Projeto: Aplique padrões de projeto simples como Singleton e Factory onde for adequado.
    2. OAuth2: Se possível, integre autenticação com provedores de identidade de terceiros (Google, Facebook, etc.).
    3. Cache: Implemente cache no front-end para melhorar a performance, armazenando dados frequentemente acessados no localStorage ou sessionStorage.
@@ -28,7 +28,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
     A mudança pode envolver alterações na estrutura das respostas e nos componentes que exibem os dados.
    6. Funcionamento sem JSON Server: Modifique o todo app para funcionar sem o JSON Server, utilizando LocalStorage para persistência dos dados.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas ⚙️
 - **React:** para a componentização e renderização das páginas.
 - **Styled Components:** para a estilização dos componentes.
 - **JSON Server :** antes, utilizado para controlar o To-Do. Agora, o JSON Server está sendo utilizado para salvar as informaçõoes de login.
@@ -38,7 +38,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
 - **React Responsive Carousel:** para a criação do carrossel da página inicial.
 - **Usehooks-ts:** conjunto de hooks personalizados para aplicações 
 
-## Funções da aplicação
+## Funções da aplicação 🛠️
 - Localizador de endereço IP
 - Tradutor
 - Mecanismo de pesquisa de filmes
@@ -46,7 +46,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
 - Quiz Simples
 - Lista de To-Dos
 
-## Use o projeto localmente:
+## Use o projeto localmente: 🏃‍♀️
 1. Clone o repositório do projeto:
 ```
 git clone https://github.com/Yasmin-Carloto/MultiApp.git
@@ -82,5 +82,5 @@ VITE_APP_TMDB_API_KEY="api.key.tmdb"
 npm run dev
 ```
 
-## Repositório original: 
+## Repositório original: ✅
 [Repositório com o código original](https://github.com/jhyago/maisPraTi-2024-01/tree/main/3-reactjs/atv5)
