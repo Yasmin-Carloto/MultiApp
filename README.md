@@ -6,7 +6,7 @@ Este projeto está associado a Trilha FullStack Jr., um curso síncrono de 6 mes
 Como alunos do curso, fomos desafiados por nosso professor a recebermos um código sujo, com pouquíssima componentizção, sem estruturação de páginas e com o uso de APIs que não funcionavam corretamente e corrigirmos seus erros, além de componentizarmos e melhorarmos a estruturação de páginas.
 
 ### A seguir, os desafios obrigatórios e opcionais: 
-**1. Obrigatórias**
+1. **Obrigatórias**
     1. Arquitetura:
         1. Modularização: Reestruture o código em módulos distintos para melhorar a manutenção e a legibilidade. Separe componentes, páginas, serviços e utilitários.
         2. Tratamento de Erros: Melhore o tratamento de erros, garantindo que o aplicativo lide com erros de forma clara e amigável para o usuário.
@@ -17,7 +17,7 @@ Como alunos do curso, fomos desafiados por nosso professor a recebermos um códi
     3. Qualidade de Código e Melhores Práticas:
         1. Revisões de Código: Estabeleça um processo de revisão de código para garantir qualidade e consistência.
         2. Documentação: Melhore a documentação do código utilizando comentários claros e mantendo um README detalhado.
-**2. Não obrigatórias:** 
+2. **Não obrigatórias:** 
    1. Uso de Padrões de Projeto: Aplique padrões de projeto simples como Singleton e Factory onde for adequado.
    2. OAuth2: Se possível, integre autenticação com provedores de identidade de terceiros (Google, Facebook, etc.).
    3. Cache: Implemente cache no front-end para melhorar a performance, armazenando dados frequentemente acessados no localStorage ou sessionStorage.
