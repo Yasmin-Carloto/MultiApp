@@ -65,6 +65,7 @@ npm install
 
 5. Após isso, configure o JSON Server, usando: 
 ```
+npx json-server db.json
 json-server db.json --port 3000
 ```
 
